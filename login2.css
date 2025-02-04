@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-image:url(img/depositphotos_200446786-stock-illustration-pet-shop-background-for-your.jpg);
+    /* background-repeat:no-repeat; */
+      background-attachment: fixed; 
+    background-size:cover;
+}
+.login{
+    position: relative;
+    left:35%;
+    top: 20vh;
+    width: 450px;
+    height: 350px;
+    background-color:white;
+    overflow: hidden;
+    }
+img{
+    width: 30%;
+    float:right;
+    position:absolute;
+    top: 0;
+    left:65%;
+    
+    border-radius: 30px;
+    
+}
+.nav h3{font-size: 1.8rem;
+    margin: 30px 30px;}
+input{
+    width:65%;
+    padding: 7px;
+    margin: 0 40px;
+}
+p{
+    text-align: justify;
+    margin: 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    width: 65%;
+    margin: 0 40px;
+    padding: 7px;
+    background-color: rgb(69, 94, 240);
+    color: white;
+    
+
+}
